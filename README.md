@@ -2,8 +2,6 @@
 
 
 
-#  Verificador de Maioridade
-
 ##  Sobre o projeto
 
 Este projeto foi desenvolvido como parte da **Atividade 3: Desafio "Verificador de Maioridade"**.
